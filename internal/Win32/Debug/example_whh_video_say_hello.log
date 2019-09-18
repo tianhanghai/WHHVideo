@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (..\..\..\internal\Win32\Debug\) contains files shared from another project (LibWHHVideo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  example_whh_video_say_hello.cpp
+  example_whh_video_say_hello.vcxproj -> F:\Reserch\RSH_WHHVideo\examples\example_whh_video_say_hello\VS2019\..\..\..\bin\Win32\Debug\example_whh_video_say_hello.exe
